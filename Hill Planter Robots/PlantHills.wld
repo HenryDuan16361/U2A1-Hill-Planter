@@ -1,0 +1,57 @@
+#Date created: Sept 19,2006
+# Window title
+	Planter Hills Robot
+# first street, first avenue, num streets, num avenues
+	0 0 10 10
+# intersection size
+	55
+# things
+
+becker.robots.Wall 6 2 South
+becker.robots.Wall 6 2 East
+becker.robots.Wall 5 3 South
+becker.robots.Wall 5 3 East
+becker.robots.Wall 4 4 South
+becker.robots.Wall 5 4 East
+becker.robots.Wall 5 5 South
+becker.robots.Wall 6 5 East
+becker.robots.Wall 6 6 South
+
+becker.robots.Wall 6 8 South
+becker.robots.Wall 6 8 East
+becker.robots.Wall 5 9 South
+becker.robots.Wall 5 9 East
+becker.robots.Wall 4 10 South
+becker.robots.Wall 4 10 East
+becker.robots.Wall 3 11 South
+becker.robots.Wall 4 11 East
+becker.robots.Wall 4 12 South
+becker.robots.Wall 5 12 East
+becker.robots.Wall 5 13 South
+becker.robots.Wall 6 13 East
+
+
+becker.robots.Wall 6 16 South
+becker.robots.Wall 6 16 East
+becker.robots.Wall 5 17 South
+becker.robots.Wall 5 17 East
+becker.robots.Wall 4 18 South
+becker.robots.Wall 4 18 East
+becker.robots.Wall 3 19 South
+becker.robots.Wall 4 19 East
+becker.robots.Wall 4 20 South
+becker.robots.Wall 5 20 East
+becker.robots.Wall 5 21 South
+becker.robots.Wall 6 21 East
+becker.robots.Wall 6 22 South
+
+becker.robots.Wall 6 24 South
+becker.robots.Wall 6 24 East
+becker.robots.Wall 5 25 South
+becker.robots.Wall 5 25 East
+becker.robots.Wall 4 26 South
+becker.robots.Wall 5 26 East
+becker.robots.Wall 5 27 South
+becker.robots.Wall 6 27 East
+becker.robots.Wall 6 28 South
+
